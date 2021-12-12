@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html> 
+	<head>
+		<meta charset="UTF-8"/> 
+			<title>аккуратный куст</title>			
+		<style>
+			#layout{
+			width: 90%;
+			max-height: 1024px;
+			margin: auto;
+			background-color: white ;
+		}
+		
+		td {
+			padding: 20px;
+			vertical-align: top;
+			border: solid 3px blue;
+		}
+		.udivlenie { 
+		padding-right: 20px;
+		}
+		#footer { 
+			text-align: center;
+		}
+		</style>	
+	</head>
+	<body background="abstract-lights-red-darkness.jpg" text="black">
+		<table id="layout"  >
+			<tr>
+				<td colspan=2>
+					<h1>Зарослейнет</h1>
+				</td>			
+			</tr> 
+			<tr>
+			
+				<td>
+					<h2>Проф из профи, ослепнешь от красоты своего участка</h2>
+					<img class="udivlenie" align="left" src="kartinki-pro-udivlenie-23-650x446-removebg-preview.png" alt="афигеть" width="150px" >
+					<h5>Разработка по чертежам и эскизам планировки и художественного оформления газонов, клумб и площадей, подлежащих озеленению, на территориях предприятий и организаций.
+
+	<li>— Подготовка посадочного материала.</li>
+	<li>— Посадка саженцев, черенков, сеянцев, деревьев, кустарников, цветочных растений.</li>
+	<li>— Обработка почвы, внесение минеральных удобрений и подкормка растений.</li>
+	<li>— Опыливание растений и опрыскивание их дезинфицирующими средствами.</li>
+	<li>— Выкопка посадочного материала.</li>
+	<li>— Копка ям и засыпка их после высадки саженцев.</li>
+	<li>— Окучивание, разокучивание и поливка насаждений.</li>
+	<li>— Стрижка ковровых газонов, цветников, формовочная обрезка (подстрижка) крон деревьев и кустарников.</li>
+					</h5>					 
+						<a href="zakaz.html" > заказать услугу </a>					
+					<br>
+					<br>
+					<hr>					 					
+					<h2>это таки не всё!</h2>
+					<h3>ремонтно-строительные учлуги</h3>
+					<img class="udivlenie" align="left" src="kartinki-pro-udivlenie-28.jpg" alt="афигеть" width="100px" >
+					<h5>Создание проектной  и рабочей документации                                  
+	<li>— Строительно-монтажные работы</li>
+	<li>— Ремонтно-отделочные работы</li>
+	<li>— Оснащение объектов</li>
+	<li>— Устройство инженерных систем</li>
+	<br><br>
+	<br>
+	<br>
+						<a href="zakaz.html" > заказать услугу </a>
+				</td>
+				
+				<td width="300px">
+					<h3>меню</h3>
+						<ul>
+							<li><a href="сайт.html" > главная страница</a></li>
+							<li><a href="садовник.html"> виды работ</a></li>								
+							<li><a href="https://www.equestrian.ru/market/horses/" target="_blank"> наши партнеры</a></li>
+							<li><a href="https://www.youtube.com/" target="_blank"> видео</a></li>
+							<br>
+							<br>
+							<br>
+							послушай музончик
+							<audio controls>              
+			<source src="Anacondaz_-_Vsem_pizdec_64578020.mp3" type="audio/mpeg">       
+		</audio>  
+							<br>
+							<br>			
+				<video controls>             
+		<source src="https://www.youtube.com/watch?v=qb19SicqsIE&list=LL&index=5" type="video/mpeg"> 
+		</video>
+				</td>					
+			</tr> 			
+			<tr>
+				<td id="footer" colspan=2>все работы контролируются</td>		
+			</tr> 
+		</table>
+		
+	</body> 

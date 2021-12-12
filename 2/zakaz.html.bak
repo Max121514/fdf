@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html> 
+	<head>
+		<meta charset="UTF-8"/> 
+		<title>
+			заявка
+		</title>
+	</head>
+	<body> 
+		<h1>
+			форма заявки
+		</h1>
+			<form action="/order">
+			<label>
+			<br>
+				<h4>Имя</h4>
+				<input type="text" name="address" size="30">
+				<br>
+				<h4>адрес:</h4>
+				<input type="text" name="address" size="57">
+				<br>
+				<h4>№ телефона</h4> 
+				<input type="text" name="address" size="50">
+				<br>
+				<br>
+				<br>				 				
+				<textarea placeholder="комментарии" ></textarea>
+				<br>
+				<br>
+				<input type="submit" value="заказать">
+			</label>
+	</body> 
+<html> 
